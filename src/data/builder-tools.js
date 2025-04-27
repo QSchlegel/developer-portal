@@ -849,6 +849,14 @@ export const Showcases = [
     tags: ["javascript", "typescript", "serialization", "sdk", "plutus", "favorite"]
   },
   {
+    title: "Mesh Multisignature Platform",
+    description: "A user friedly platform, that simplifies the creation and mangement of Multisignature Wallets, utilizing the Mesh SDK",
+    preview: require("./builder-tools/mesh.png"),
+    website: "https://multisig.meshjs.dev",
+    getstarted: null,
+    tags: ["javascript", "typescript", "wallet", "governance", "hosted", "favorite"]
+  },
+  {
     title: "Koios Python",
     description: "Koios Python wrapper which allow interacting with all information and parameters stored on the Cardano blockchain.",
     preview: require("./builder-tools/koios-python.png"),
